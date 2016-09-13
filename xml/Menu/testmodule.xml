@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/contact/test_page</path>
+    
+    <page_callback>CRM_Testmodule_Page_TestPage</page_callback>
+    <title>TestPage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
